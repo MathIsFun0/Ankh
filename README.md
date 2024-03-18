@@ -2,7 +2,7 @@
 A speedrun timer and autosplitter for Balatro.
 
 ## Installation
-Ankh requires [Lovely](https://github.com/ethangreen-dev/lovely-injector) to be installed in order to be used. You must copy `dwmapi.dll` into your Balatro game directory. You can navigate to the location by right-clicking the game in Steam, hovering "Manage", and selecting "Browse local files".
+Ankh requires [Lovely](https://github.com/ethangreen-dev/lovely-injector) to be installed in order to be used. To install it, you must copy `dwmapi.dll` into your Balatro game directory. You can navigate to the location by right-clicking the game in Steam, hovering "Manage", and selecting "Browse local files".
 
 To install Ankh, move the files from the latest [Release](https://github.com/MathIsFun0/Ankh/releases) into the `%AppData%/Balatro/Mods` folder. (You must create this folder if it does not exist.)
 
