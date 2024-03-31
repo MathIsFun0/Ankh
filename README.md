@@ -2,7 +2,7 @@
 An in-game timer and autosplitter for Balatro.
 
 ## Installation
-The latest version of Ankh can be installed with Thunderstore - you can find the mod [here](https://thunderstore.io/c/balatro/p/MathIsFun0/Ankh). _(Note that Balatro is currently not publicly available in modloaders that use Thunderstore.)_
+The latest version of Ankh can be installed with Thunderstore - you can find the mod [here](https://thunderstore.io/c/balatro/p/MathIsFun0/Ankh). _(Note that Balatro is currently not publicly available in modloaders that use Thunderstore. Use the Manual Installation method at the moment.)_
 
 For autosplitting with LiveSplit, you must also install [LiveSplit Server](https://github.com/LiveSplit/LiveSplit.Server/releases/tag/1.8.19). Move the files from this release into your LiveSplit Components folder and add LiveSplit Server to your splits layout.
 
