@@ -1,5 +1,5 @@
 # Ankh
-An in-game timer and autosplitter for Balatro.
+An in-game timer, autosplitter, and replay mod for Balatro.
 
 ## Installation
 ~~The latest version of Ankh can be installed with Thunderstore - you can find the mod [here](https://thunderstore.io/c/balatro/p/MathIsFun0/Ankh). _(Note that Balatro is currently not publicly available in modloaders that use Thunderstore. Use the Manual Installation method at the moment.)_~~ _(The latest version of Ankh now uses a beta of Lovely which is not available on Thunderstore.)_
@@ -10,7 +10,7 @@ For autosplitting with LiveSplit, you must also install [LiveSplit Server](https
 Ankh requires [Lovely](https://github.com/ethangreen-dev/lovely-injector) v0.5.0 or higher to be installed in order to be instaled manually. To install it, you must copy `version.dll` into your Balatro game directory. You can navigate to the location by right-clicking the game in Steam, hovering "Manage", and selecting "Browse local files".
 
 To install Ankh manually, move the files from the latest [Release](https://github.com/MathIsFun0/Ankh/releases) into the `%AppData%/Balatro/Mods` folder. (You must create this folder if it does not exist.)
-You must also install [nativefs](https://thunderstore.io/package/download/metherul/nativefs/1.0.0/) into the same folder.
+For v1.0.4 and earlier, you must also install [nativefs](https://thunderstore.io/package/download/metherul/nativefs/1.0.0/) into the same folder.
 
 ## Using Ankh
 All runs uploaded to Speedrun.com with this mod must use its Official Mode, which you can find in the profile selection menu.
